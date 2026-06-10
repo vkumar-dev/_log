@@ -1,0 +1,8 @@
+title: "_log"
+description: "Logs of thoughts, patterns, and programs."
+theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
